@@ -1,0 +1,23 @@
+recommendation system: a piece of code which is intelligent enough 
+to suggest user's preference to increase profitability(what users wants.)
+4 types of recommendation system
+1. popularity based :most popular objects in that platform is visible -formula based
+2. content based : similarity based 
+3. collaborative filtering : users preference /rating 
+4. hybrid based: all 3
+
+dataset-
+github= popularity(downloads)
+youtube=popularity(views)
+dataset/apis
+template
+student project ratings
+
+
+
+
+
+
+profile.html
+ <label class="small mb-1">Bio:</label> {{ profile_form.bio }}
+
